@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Support Pi 1.0.0 by accepting its `@earendil-works/pi-ai` peer version and validating against Pi 1.0.0 host packages.
+- Support Pi 1.0.0 by accepting its `@earendil-works/pi-ai` peer version and validating against Pi 1.0.0 host packages. Thanks to [@lucascaro](https://github.com/lucascaro) for [PR #801](https://github.com/nicobailon/pi-mcp-adapter/pull/801).
 
 ## [5.0.0] - 2026-10-01
 
